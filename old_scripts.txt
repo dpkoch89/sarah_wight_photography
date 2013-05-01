@@ -1,0 +1,35 @@
+<!-- chris coyier's little dropdown select
+	http://css-tricks.com/convert-menu-to-dropdown/ -->
+<script type="text/javascript">
+	$(document).ready(function() {
+		
+		// build dropdown
+		$("<select />").appendTo("nav.secondary div, nav.footernav div");
+		
+		// Create default option "Go to..."
+		$opt_goto = $("<option />", {
+			"selected": "selected",
+			"value"   : "",
+			"text"    : "Go to..."
+		});
+		$opt_goto.appendTo("nav.secondary select, nav.footernav select");
+		
+		// Populate dropdown with menu items
+		$("nav.primary li a").each(function() {
+			var el = $(this);
+			$opt_entry = $("<option />", {
+				"value"   : el.attr("href"),
+				"text"    : el.text()
+			});
+			$opt_entry.appendTo("nav.secondary select, nav.footernav select");
+		});
+		
+		// add the "Back to Top" link
+		$('<p><a href="#top">Back to Top</a></p>').appendTo("nav.footernav");
+		 
+		// make the dropdown actually work
+		$("nav select").change(function() {
+		window.location = $(this).find("option:selected").val();
+		});
+	});
+</script>
