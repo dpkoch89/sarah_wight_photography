@@ -20,7 +20,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php';
 				<li>
 					<label for="email">Email:</label>
 					<label for="email" class="form_error_message">Please enter a valid email address</label>
-					<input type="text" name="email" id="email" />
+					<input type="email" name="email" id="email" />
 					<!--<script type="text/javascript">
 						var email_input = new LiveValidation('email', { onlyOnSubmit: "true" });
 						email_input.add( Validate.Presence );
