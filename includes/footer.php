@@ -89,6 +89,7 @@
 <!-- additional (page specific) scripts, if any -->
 <?php if (!empty($script)) echo $script . "\n"; ?>
 
+<!-- Google Analytics -->
 <script type="text/javascript">
 
   var _gaq = _gaq || [];

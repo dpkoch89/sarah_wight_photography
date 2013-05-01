@@ -351,12 +351,31 @@ nav.primary ul ul li a:hover {
 
 /* form styling */
 
+form ul {
+	margin-left: 0;
+	list-style-type: none;
+}
+
 .LV_invalid_field {
 	border-color: #f00;
 }
 
 .LV_valid_field {
 	border-color: #0f0;
+}
+
+.form_error_message {
+	color: #f00;
+	font-weight: normal;
+	font-style: italic;
+}
+
+.form_success {
+	border: 1px solid #080;
+}
+
+.form_failure {
+	border: 1px solid #800;
 }
 
 /* #Page Styles
