@@ -70,7 +70,7 @@
 						<li><a href="/about/what_to_expect/">What to Expect</a></li>
 					</ul>
 				</li>
-				<!--<li><a href="#">Blog</a></li>-->
+				<li><a href="http://blog.sarahwightphotography.com">Blog</a></li>
 			</ul>
 		</div>
 	</nav> <!-- end container -->

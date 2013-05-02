@@ -47,18 +47,21 @@ $errors .= "\n</ul>";
 // process form and echo result
 if (!$has_errors) {
 	$mail_to = 'sarahwightphotography@gmail.com';
-	$subject = 'New mail from form submission';
-	$headers = "From:" . $_POST['email'];
-	$message = "Name:  " . $_POST['name'] . "\n";
-	$message .= "Email: " . $_POST['email'] . "\n";
-	$message .= "\nMessage:\n\n" . $_POST['message'];
+	$subject = 'Contact form submission';
+	$headers = 'From: "' . $_POST['name'] . '" <noreply@sarahwightphotography.com>';
+	$headers .= "\r\nReply-To: " . $_POST['email'];
+	//$headers .= "\r\nContent-type: text/html";
+	$message = "[Name]: " . $_POST['name'] . "\n";
+	$message .= "[Email]: " . $_POST['email'] . "\n";
+	$message .= "\n" . $_POST['message'];
 	
-	mail($mail_to, $subject, $message, $headers);
-	
-	echo "<div class='form_success'><p>Message Sent! Thank you for your interest; we will get back to you as soon as possible.</p></div>";
+	if(mail($mail_to, $subject, $message, $headers)) {
+		echo "<div class='form_success'><p>Message Sent! Thank you for your interest; we will get back to you as soon as possible.</p></div>";
+	} else {
+		echo "<div class='form_failure'><p>We're sorry, an error was encountered while attempting to send your message. Please refresh this page to try again.</p></div>";
+	}
 } else {
-	echo "<div class='form_failure'><p>We're sorry, there was an error processing your form:</p>\n$errors\n<p>Please refresh this page to try again.</p>";
-	
+	echo "<div class='form_failure'><p>We're sorry, there was an error processing your form:</p>\n$errors\n<p>Please refresh this page to try again.</p></div>";
 }
 
 ?>
