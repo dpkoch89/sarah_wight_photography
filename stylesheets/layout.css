@@ -300,6 +300,7 @@ nav.primary ul ul li a:hover {
 }
 
 /* links */
+/*
 .button-link {
 	display: block;
 }
@@ -332,6 +333,18 @@ nav.primary ul ul li a:hover {
 .button-link:hover,
 .button-links a:hover {
 	background: url(../images/home_link_button_dark.png);
+}*/
+
+.button-link {
+	color: #792a82;
+	text-decoration: none;
+	font-size: 18px;
+	font-style: italic;
+}
+
+.button-link:after {
+	/*content: " >>";*/
+	content: " >>";
 }
 
 /* Image Galleries */
@@ -370,12 +383,23 @@ form ul {
 	font-style: italic;
 }
 
+.form_success,
+.form_failure {
+	padding: 12px;
+	border-width: 2px;
+	border-style: solid;
+}
+
 .form_success {
-	border: 1px solid #080;
+	color: #040;
+	border-color: #080;
+	background-color: #6d6;
 }
 
 .form_failure {
-	border: 1px solid #800;
+	color: #400;
+	border-color: #800;
+	background-color: #d66;
 }
 
 input:invalid {

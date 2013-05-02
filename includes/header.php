@@ -53,12 +53,11 @@
 				<li><a href="/">Home</a></li>
 				<li><a href="/portfolio/">Portfolio</a>
 					<ul>
-						<li><a href="#">Families</a></li>
 						<li><a href="#">Seniors</a></li>
 						<li><a href="/portfolio/engagements/">Engagements</a></li>
 						<li><a href="#">Formals</a></li>
 						<li><a href="#">Weddings</a></li>
-						<li><a href="#">Dance</a></li>
+						<!--<li><a href="#">Dance</a></li>-->
 					</ul>
 				</li>
 				<li><a href="/pricing/">Pricing</a></li>
@@ -70,7 +69,7 @@
 						<li><a href="/about/what_to_expect/">What to Expect</a></li>
 					</ul>
 				</li>
-				<li><a href="http://blog.sarahwightphotography.com">Blog</a></li>
+				<li><a href="http://blog.sarahwightphotography.com/">Blog</a></li>
 			</ul>
 		</div>
 	</nav> <!-- end container -->

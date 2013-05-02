@@ -19,7 +19,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php';
 
 <div class="ten columns">
 	<h3>Welcome!</h3>
-	<p>My name is Sarah Wight, and I am a professional portrait, wedding, and commercial photographer working and living in the Utah Valley and Salt Lake Valley areas.  I have the experience and skill it takes to create modern and fresh photographs of you and of your most important events.  My style is one of simplicity and excellence, and will never go out of style.  Please take a few moments to look around, and I hope that I can be a part of helping you capture your most important memories! (sorry it's so cheesy)</p>
+	<p>I'm a professional senior, wedding, and model photographer based in Northern Utah. I believe it's my job to create a beautiful, timeless representation of you that you can look back on for the rest of your life. I absolutely love what I do, and I look forward to working with you!</p>
 </div>
 
 <div class="six columns">
