@@ -1,0 +1,8 @@
+# Use PHP5 Single php.ini as default
+AddHandler application/x-httpd-php5s .php
+
+ErrorDocument 400 /error400.php
+ErrorDocument 401 /error401.php
+ErrorDocument 403 /error403.php
+ErrorDocument 404 /error404.php
+ErrorDocument 500 /error500.php

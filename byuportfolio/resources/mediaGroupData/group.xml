@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<mediaGroup>
+<amgVersion version="1.3"/>
+<groupInfo>
+<author/>
+<authorApplication>Lightroom 4.3</authorApplication>
+<creationDate>03/13/13, 11:34:39 PM</creationDate>
+<galleryMaker name="Adobe Flash Gallery" version="1.3"/>
+<groupData groupID="" groupName=""/>
+<authorID/>
+<custom>
+<groupTitle>Portfolio</groupTitle>
+<groupDescription></groupDescription>
+<siteTitle>Sarah Wight</siteTitle>
+<contactName>sarahwight@byu.edu</contactName>
+<contactEmail>sarahwight@byu.edu</contactEmail>
+</custom>
+</groupInfo>
+<sizes>
+<imageSize maxheight="96" maxwidth="96" size="thumb"/>
+<imageSize maxheight="520" maxwidth="1040" size="small"/>
+<imageSize maxheight="650" maxwidth="1150" size="medium"/>
+<imageSize maxheight="850" maxwidth="1275" size="large"/>
+</sizes>
+<media totalGallerySize="12">
+<item>
+<title></title>
+<description></description>
+<imageID id="57915" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/Priscilla-21.jpg" width="567" size="large"/>
+<rendition height="650" src="images/medium/Priscilla-21.jpg" width="433" size="medium"/>
+<rendition height="520" src="images/small/Priscilla-21.jpg" width="347" size="small"/>
+<rendition height="96" src="images/thumb/Priscilla-21.jpg" width="64" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="57939" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="847" src="images/large/Building.jpg" width="1275" size="large"/>
+<rendition height="650" src="images/medium/Building.jpg" width="979" size="medium"/>
+<rendition height="520" src="images/small/Building.jpg" width="783" size="small"/>
+<rendition height="64" src="images/thumb/Building.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="57692" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/Kayci_BW.jpg" width="565" size="large"/>
+<rendition height="650" src="images/medium/Kayci_BW.jpg" width="432" size="medium"/>
+<rendition height="520" src="images/small/Kayci_BW.jpg" width="345" size="small"/>
+<rendition height="96" src="images/thumb/Kayci_BW.jpg" width="64" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="57744" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/David_crop_PRINT.jpg" width="576" size="large"/>
+<rendition height="650" src="images/medium/David_crop_PRINT.jpg" width="441" size="medium"/>
+<rendition height="520" src="images/small/David_crop_PRINT.jpg" width="353" size="small"/>
+<rendition height="96" src="images/thumb/David_crop_PRINT.jpg" width="65" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="59913" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/Nationals-99.jpg" width="1275" size="large"/>
+<rendition height="650" src="images/medium/Nationals-99.jpg" width="975" size="medium"/>
+<rendition height="520" src="images/small/Nationals-99.jpg" width="780" size="small"/>
+<rendition height="64" src="images/thumb/Nationals-99.jpg" width="96" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="57847" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/Final-9.jpg" width="567" size="large"/>
+<rendition height="650" src="images/medium/Final-9.jpg" width="433" size="medium"/>
+<rendition height="520" src="images/small/Final-9.jpg" width="347" size="small"/>
+<rendition height="96" src="images/thumb/Final-9.jpg" width="64" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="57780" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/Stew_dancing_full_body_high_pass_edit.jpg" width="565" size="large"/>
+<rendition height="650" src="images/medium/Stew_dancing_full_body_high_pass_edit.jpg" width="432" size="medium"/>
+<rendition height="520" src="images/small/Stew_dancing_full_body_high_pass_edit.jpg" width="346" size="small"/>
+<rendition height="96" src="images/thumb/Stew_dancing_full_body_high_pass_edit.jpg" width="64" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="57869" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/E_B-116.jpg" width="567" size="large"/>
+<rendition height="650" src="images/medium/E_B-116.jpg" width="433" size="medium"/>
+<rendition height="520" src="images/small/E_B-116.jpg" width="347" size="small"/>
+<rendition height="96" src="images/thumb/E_B-116.jpg" width="64" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="57715" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/Window_edit.jpg" width="565" size="large"/>
+<rendition height="650" src="images/medium/Window_edit.jpg" width="432" size="medium"/>
+<rendition height="520" src="images/small/Window_edit.jpg" width="345" size="small"/>
+<rendition height="96" src="images/thumb/Window_edit.jpg" width="64" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="57808" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/Back_better_crop.jpg" width="564" size="large"/>
+<rendition height="650" src="images/medium/Back_better_crop.jpg" width="432" size="medium"/>
+<rendition height="520" src="images/small/Back_better_crop.jpg" width="345" size="small"/>
+<rendition height="96" src="images/thumb/Back_better_crop.jpg" width="64" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="57763" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/Catherine_angel_alt.jpg" width="565" size="large"/>
+<rendition height="650" src="images/medium/Catherine_angel_alt.jpg" width="432" size="medium"/>
+<rendition height="520" src="images/small/Catherine_angel_alt.jpg" width="345" size="small"/>
+<rendition height="96" src="images/thumb/Catherine_angel_alt.jpg" width="64" size="thumb"/>
+</renditions>
+</item>
+<item>
+<title></title>
+<description></description>
+<imageID id="57830" dbtype="Adobe Lightroom 3.0" dbname="main"/>
+<mediaType format="jpeg" category="image"/>
+<renditions>
+<rendition height="850" src="images/large/Steps_Analogous_edit.jpg" width="564" size="large"/>
+<rendition height="650" src="images/medium/Steps_Analogous_edit.jpg" width="432" size="medium"/>
+<rendition height="520" src="images/small/Steps_Analogous_edit.jpg" width="345" size="small"/>
+<rendition height="96" src="images/thumb/Steps_Analogous_edit.jpg" width="64" size="thumb"/>
+</renditions>
+</item>
+</media>
+</mediaGroup>
